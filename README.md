@@ -1,0 +1,1 @@
+# doc-with-swagger-example
